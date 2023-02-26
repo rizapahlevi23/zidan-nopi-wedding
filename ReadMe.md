@@ -16,12 +16,12 @@
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Ahmad Zidan & Novi</strong>
+    <strong>Azmi Zidan & Novi</strong>
     <br />
     <a href="https://rizapahlevi23.github.io/zidannopiwedding/">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="">Ahmad Zidan</a>
+    <a href="">Azmi Zidan</a>
     ·
     <a href="">Novi M</a>
   </p>
